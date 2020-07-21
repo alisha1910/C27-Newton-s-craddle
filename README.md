@@ -1,1 +1,3 @@
-# C27-Newton-s-craddle
+
+###This the famous Newtons cradle.
+Have Fun while watching!
